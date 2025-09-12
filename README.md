@@ -12,14 +12,14 @@ Designed with a modern dark theme and beginner-friendly explanations.
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Sections](#sections)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Sections](#-sections)
 - [Preview](#-preview)
 - [Live Demo](#-live-demo)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [Connect with Me](#connect-with-me)
+- [How to Use](#-how-to-use)
+- [Contributing](#-contributing)
+- [Connect with Me](#-connect-with-me)
 
 ---
 
