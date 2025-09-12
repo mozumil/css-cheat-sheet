@@ -59,6 +59,20 @@ It includes practical examples, layout demos, and a stylish dark theme for comfo
 
 ---
 
+---
+
+## 📸 Preview
+
+![CSS Cheat Sheet Preview](preview.png)
+
+---
+
+## 🚀 Live Demo
+
+[🔗 View the live demo](https://mozumil.github.io/css-cheat-sheet/)
+
+---
+
 ## 🚀 How to Use
 
 1.  Clone the repository:
